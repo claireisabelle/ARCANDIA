@@ -1,0 +1,136 @@
+
+
+/*
+ * 1 - Généralités
+ */
+
+ .container-fluid{
+ 	padding-left: 0px !important;
+ 	padding-right: 0px !important;
+ }
+
+ h1{
+ 	padding-top: 0px !important;
+ 	margin-top: 0px !important;
+ 	font-size: 1.5em !important;
+ 	color: #0B234D;
+ }
+
+ h2{
+ 	color: #324E7E;
+ 	font-size: 1.2em !important;
+ }
+
+
+
+
+/*
+ * 2 - Header
+ */
+
+ .head{
+ 	background-color: #BE9140;
+ 	min-height: 150px;
+ 	margin-bottom: 50px;
+ }
+
+ .titre p{
+ 	line-height: 150px;
+ 	padding: 0px !important;
+ 	margin: 0px !important;
+ 	color: #ffffff;
+ 	font-size: 1.5em;
+ 	text-align: right;
+ }
+
+
+
+/*
+ * 3 - Tabs
+ */
+
+ .tabs{
+ 	margin-top: 50px;
+ }
+
+ .tab-content{
+ 	border-left: solid 1px #ddd !important;
+ 	border-right: solid 1px #ddd !important;
+ 	border-bottom: solid 1px #ddd !important;
+ 	padding: 15px !important;
+ }
+
+ .tab-content p{
+ 	padding-top: 10px !important;
+ }
+
+ .nav-tabs > li > a{
+ 	color: #324E7E !important;
+ }
+
+ .nav-tabs > li.active > a{
+ 	color: #555 !important;
+ 	font-weight: bold !important;
+ }
+
+
+
+/*
+ * 4 - Tarifs
+ */
+
+
+ .panel{
+ 	text-align: center !important;
+ }
+
+ .panel-body{
+ 	font-size: 2em !important;
+ 	font-weight: bold !important;
+ }
+
+
+/*
+ * 5 - Footer
+ */
+
+ .foot{
+ 	background-color: #BE9140;
+ 	min-height: 150px;
+ 	margin-top: 50px;
+ }
+
+ .footer-ours{
+ 	color: #ffffff;
+ 	padding-bottom: 30px;
+ }
+
+ .footer-logo p{
+ 	text-align: right;
+ 	padding-top: 20px;
+ }
+
+
+/*
+ * 6 - Sommaire
+ */
+
+ .sommaire-item{
+ 	border: solid 1px #777777;
+ 	padding-top: 5px !important;
+ 	padding-bottom: 5px !important;
+ }
+
+ .vertical-align {
+    display: flex;
+    align-items: center;
+ }
+
+
+ .button-produit{
+ 	text-align: right !important;
+ 	margin: 0px !important;
+ 	
+ }
+
+
